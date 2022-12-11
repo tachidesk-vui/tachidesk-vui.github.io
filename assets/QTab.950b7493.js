@@ -1,1 +1,0 @@
-import{u as o,a as t,b as m}from"./QTabs.1c91eb27.js";import{c as p}from"./QSpinner.b1186f68.js";var u=p({name:"QTab",props:o,emits:t,setup(a,{slots:s,emit:e}){const{renderTab:r}=m(a,s,e);return()=>r("div")}});export{u as Q};
